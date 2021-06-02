@@ -48,6 +48,9 @@ printf("Choose your reward from 1 to 5\n");
     {
       printf("You lose! Please try again!\n");
     }
+    
+    return 0;
+}
      
     
 
